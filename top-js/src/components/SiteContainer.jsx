@@ -24,7 +24,7 @@ class SiteContainer extends Component {
             <StyledSiteContainer>
                 <header>
                     <h1>
-                        Paged js-top repos
+                        Top Github JavaScript Repositories
                     </h1>
                 </header>
                 <div className="pagedTableContainer">
