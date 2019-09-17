@@ -23,6 +23,9 @@ class SiteContainer extends Component {
         return ( 
             <StyledSiteContainer>
                 <header>
+                    {/**
+                    Text should not be hard coded. Resource.
+                     */}
                     <h1>
                         Top Github JavaScript Repositories
                     </h1>

@@ -34,7 +34,6 @@ class Table extends Component {
                             <TableElement>{element.open_issues_count}</TableElement>
                             <TableElement>{numeral(element.forks).format('0,0')}</TableElement>
                         </TableRow>
-                    
                     )
                 })}
             </StyledTableContainer>
